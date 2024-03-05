@@ -1,0 +1,42 @@
+header{
+    background-color: rgb(2, 2, 2);
+    color: red;
+    height: 50px;
+    padding: 20px;
+}
+
+nav {
+    background-color: rgb(119, 119, 119);
+    height: 50px;
+    padding: 10px;
+}
+
+nav ul li {
+    list-style-type: name;
+    background-color: #8a8989;
+    display: inline; 
+    padding: 10px; 
+    margin: 10px;
+    border: 2px solid #b43131;
+    border-radius: 10px;
+}
+
+nav ul{
+    text-align: center;
+    font-size: 1;
+    padding: 10px;
+}
+
+#main{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+footer{
+    background-color: #8a8989;
+    color: white;
+    text-align: center;
+    height: 25px;
+    padding: 10px;
+}
